@@ -51,7 +51,7 @@ El siguiente panel muestra cómo ha cambiado la estructura de la vegetación de 
 
 
 
-![portada](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/blob/main/imagenes/regeneracion_enebral?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/blob/main/imagenes/regeneracion_enebral.jpg?raw=true)
 
 
 
@@ -78,12 +78,7 @@ Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores s
 
 + Restauración ecológica. Conjunto de técnicas que ponemos en práctica los humanos para tratar de acelerar la sucesión ecológica natural. Implican varias actuaciones diferentes que persiguen reducir la pérdida de suelo y fomentar la recolonización de la vegetación. Los siguientes materiales pueden ser de utilidad:
   + En el [guión sobre sucesión ecológica](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) hay información relevante para entender este aspecto.
-  + [Claves ecológicas para la restauración del bosque mediterráneo. Aspectos demográficos, ecofisiológicos y genéticos.](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/308/303) Artículo de la revista Ecosistemas. 
-  +  [Las limitaciones de la restauración de la cubierta vegetal](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/307/302). Artículo de la revista Ecosistemas. 
-
-+ Concepto de servicio ecosistémico de abastecimiento. Los servicios ecosistémicos se definen como el conjunto de beneficios que los sistemas naturales proveen a las sociedades humanas. Los más habituales son los denominados de "abastecimiento". Son aquellos que implican el suministro de materiales físicos por parte de los ecosistemas: madera, frutos, suelo fértil, etc. 
-+ Aprovechamiento apícola. Los matorrales de media montaña son ricos en especies melíferas (capaces de producir miel). 
-+ Aprovechamiento ganadero. Tanto los matorrales como el pasto que crece en este tipo de ecosistemas son plantas que pueden servir de alimiento para cabras y ovejas. 
+  + [Este](https://digibug.ugr.es/bitstream/handle/10481/73929/manual-enebros-digital.pdf?sequence=4&isAllowed=y) libro describe con gran detalle la dinámica, estructura, funcionamiento y estrategias de restauración de los enebrales de Sierra Nevada. Es largo, pero se lee rápido. Además, tienes muchos resúmenes y conclusiones que os resultarán muy útiles. 
 
 Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a la lista sin problema. 
 
@@ -93,8 +88,8 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. 
 
-+ Erosión postincendio. Tras un incendio severo desaparece la cubierta vegetal y esto deja al suelo descubierto. Además, puede que el horizonte superficial del suelo también se calcine. Ambas circunstancias hacen que el suelo sea fácilmente lavado por las lluvias. 
-+ Abandono del medio rural. Las zonas de media montaña han experimentado un fuerte abandono desde mediados del siglo XX en toda la cuenca Mediterránea. Esto genera dinámicas complejas que pueden conducir a la desertificación del territorio. Una de estas situaciones es lo que se denomina "invasión del matorral" (*bush encroachment* en inglés). [Este](https://handwiki.org/wiki/Earth:Bush_encroachment) artículo explica con detalle en qué consiste este fenómeno.
++ Restauración tras las perturbaciones (incendios, desmontes, etc.). El libro mencionado anteriormente aporta información muy útil para entender este reto de gestión.
++ Impacto del cambio climático en estas formaciones vegetales. Este capítulo de libro contiene información relevante para entender cómo el cambio climático podría afectar a los enebrales. Es un texto largo, pero tiene muchas tablas, así que hay poca "miga" de texto. Buscad los aspectos más relevantes. 
 
 
 
