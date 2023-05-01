@@ -89,7 +89,7 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. 
 
 + Restauración tras las perturbaciones (incendios, desmontes, etc.). El libro mencionado anteriormente aporta información muy útil para entender este reto de gestión.
-+ Impacto del cambio climático en estas formaciones vegetales. Este capítulo de libro contiene información relevante para entender cómo el cambio climático podría afectar a los enebrales. Es un texto largo, pero tiene muchas tablas, así que hay poca "miga" de texto. Buscad los aspectos más relevantes. 
++ Impacto del cambio climático en estas formaciones vegetales. [Este](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/raw/main/biblio/enebrales.pdf) capítulo de libro contiene información relevante para entender cómo el cambio climático podría afectar a los enebrales. Es un texto largo, pero tiene muchas tablas, así que hay poca "miga" de texto. Buscad los aspectos más relevantes. 
 
 
 
