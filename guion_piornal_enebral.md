@@ -11,7 +11,7 @@
 >
 > 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/main/imagenes/portada.jpeg)
+![portada](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/blob/main/imagenes/portada.jpeg?raw=true)
 
 
 
@@ -20,10 +20,11 @@
 Este guión tiene los siguientes objetivos que deberán de ser satisfechos por los estudiantes que preparan esta actividad. 
 
 + Disciplinares (relacionados con la ecología): Estos objetivos son, además, los que deberán de satisfacer los estudiantes que escuchen al grupo que se encarga de la parada. 
+  + Identificar a los ecosistemas de matorral de alta montaña como el sistema más adaptado posible a las condiciones existentes en ambientes de montaña. 
+  + Comprender por qué no pueden vivir los árboles en las condiciones sen las que sí viven los matorrales.
   + Reconocer los procesos sucesionales en los ecosistemas terrestres.
-  + Comprender la importancia de la sucesión en la restauración de los ecosistemas terrestres después de un incendio.
-  + Identificar a los ecosistemas de matorral como estados sucesionales que aportan valiosos servicios ecosistémicos.
-  + Conocer las dinámicas de usos del suelo que provocan el aumento de la superficia ocupada por matorrales en la región Mediterránea.
+  + Reconocer cómo cambia la velocidad de la sucesión en virtud de las condiciones ambientales.
+  + Comprender la sensibilidad de los ecosistemas de alta montaña frente a las perturbaciones.
 + Instrumentales:
   + Mejorar sus habilidades para trabajar en equipo.
   + Entrenar la capacidad de los estudiantes para construir hilos argumentales.
@@ -33,21 +34,24 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-La zona de estudio está a una altitud de unos 800m, en la ladera izquierda del valle del río Genil, a su paso por el pueblo de Cenes de la Vega. Se trata de una zona con fuertes pendientes y con una geología dominada por conglomerados margocalizas. La vegetación está formada por matorrales de media montaña en los que domina la aulaga (*Ulex parviflorus*), la retama (*Retama sphaerocarpa*) y varias especies de jara (*Cistus* sp.). También hay algunos pies aislados de encina (*Quercus rotundifolia*) que tienen porte arbustivo. Buena parte de esta cobertura vegetal se regeneró después de un incendio que asoló la zona en 2014. Antes de dicho incendio la vegetación estaba formada principalmente por pinares de repoblación (*Pinus pinaster* y *Pinus hapelensis*). 
-
-
+La zona de estudio está a una altitud de unos 2300m, en la ladera izquierda del valle del arroyo de San Juan, muy cerca de su nacimiento. Es un zona con pendientes suaves ocupada por el denominado enebral-piornal de Sierra Nevada. Se trata de un ecosistema en el que dominan las plantas leñosas con porte almohadillado (es decir, con forma de semiesfera). Las especies más frecuentes son el enebro (*Juniperus communis* subsp. *nana*) y el piorno (*Genista versicolor*). Las duras condiciones ambientales reinantes a esta altitud condicionan la estructura y funcionamiento de este ecosistema. Las vegetación se adapta a estas condiciones generando estructuras en forma de almohada o semiesfera. Esto les permite sostener el peso de la nieve que está presente aquí durante más de 5 meses al año. En este artículo hay más información sobre [este](https://wastemagazine.es/sierranevada-enebral-piornal.htm) tipo de ecosistema.  
 
 En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremos esta actividad. Es un mapa dinámico en el que puedes interactuar con los distintos elementos. Si haces click en los puntos verás fotos e información relevante.
 
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Nc5RPO-uuxBLzaR_kkBiotzvcN6BmB0&ehbc=2E312F" width="640" height="680"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1azJEJ9G19H9cW3xhXahKN5ajmZvBB-A&ehbc=2E312F" width="640" height="680"></iframe>
 
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después del incendio. Después del mismo se inicia una sucesión secundaria que es la responsable de la situación actual. La gráfica se ha obtenido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
+Esta zona es interesante para nosotros por dos razones:
+
++ La naturaleza de los enebrales-piornales como el último tipo de ecosistema terrestre que puede vivir en las montañas. Más arriba solo pueden vivir plantas herbáceas.
++ Estudiar el impacto de las perturbaciones en ecosistemas de alta montaña. En esta zona se construyó una primitiva estación de esquí a mediados del siglo XX. La construcción de los remotes generó un gran impacto en el enebral-piornal. En esta actividad analizaremos cómo se produce la regeneración de esta formación:
+
+El siguiente panel muestra cómo ha cambiado la estructura de la vegetación de la zona de estudio desde 1956 hasta la actualidad. También se puede ver cómo ha cambiado la producción primaria en la zona afectada por el remote construido a mediados del siglo XX. En esta gráfica (basada en el NDVI. Ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) de la práctica correspondiente) se observa una clara tendencia hacia más producción primaria. La gráfica se ha construido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
 
 
 
-![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/imagenes/ndvi.png)
+![portada](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/blob/main/imagenes/regeneracion_enebral?raw=true)
 
 
 
